@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import CatComponent from './src/CatComponent'
+import GraceHopperQuoteComponent from './src/GraceHopperQuoteComponent'
 
 class App extends Component {
 	render() {
